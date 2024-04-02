@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://infotecinovacoes.com.br/sitemap.xml
