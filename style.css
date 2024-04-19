@@ -1,4 +1,15 @@
 @media (max-width: 767px) {
+    .grecaptcha-badge {
+        visibility: collapse !important;
+    }
+
+    .grecaptcha-badge {
+        opacity: 0 !important;
+    }
+
+    .grecaptcha-badge {
+        visibility: hidden;
+    }
 
     .arrow-up {
         z-index: 99999;
@@ -109,6 +120,19 @@
 }
 
 @media (min-width: 768px) {
+
+    .grecaptcha-badge {
+        visibility: collapse !important;
+    }
+
+    .grecaptcha-badge {
+        opacity: 0 !important;
+    }
+
+    .grecaptcha-badge {
+        visibility: hidden;
+    }
+
     .fixed-menu {
         display: none;
     }
